@@ -1,4 +1,4 @@
-# mqtt-lab-12042973-Mahdi_Nazzal
+
 # MQTT Pub/Sub Lab (Mosquitto + Eclipse Paho)
 
 
