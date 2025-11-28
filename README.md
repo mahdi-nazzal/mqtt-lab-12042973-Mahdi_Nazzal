@@ -6,11 +6,14 @@
 ### Mosquitto Broker + Paho Clients (Multi-Pub / Multi-Sub)
 
 <p>
+  <img src="https://img.shields.io/badge/Name-Mahdi%20Nazzal-6f42c1" />
+  <img src="https://img.shields.io/badge/Instructor-DR%20Momen%20Abu%20Ghazaleh-0ea5e9" />
   <img src="https://img.shields.io/badge/MQTT-Mosquitto-purple" />
   <img src="https://img.shields.io/badge/Python-Paho-blue" />
   <img src="https://img.shields.io/badge/OS-Windows-0078D6" />
   <img src="https://img.shields.io/badge/Student%20ID-12042973-brightgreen" />
 </p>
+
 
 <p><b>Live sensor simulation</b> with topic filtering, real-time messaging, logs, and screenshots.</p>
 
